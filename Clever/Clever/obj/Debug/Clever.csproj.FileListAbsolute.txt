@@ -1,0 +1,10 @@
+C:\Users\BOLT\source\repos\Clever\Clever\bin\Debug\Clever.exe.config
+C:\Users\BOLT\source\repos\Clever\Clever\bin\Debug\Clever.exe
+C:\Users\BOLT\source\repos\Clever\Clever\bin\Debug\Clever.pdb
+C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.csprojAssemblyReference.cache
+C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.Form1.resources
+C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.Properties.Resources.resources
+C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.csproj.GenerateResource.cache
+C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.csproj.CoreCompileInputs.cache
+C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.exe
+C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.pdb
