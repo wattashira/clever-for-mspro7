@@ -47,20 +47,9 @@ namespace Clever
 
   }
 
-  private void Form1_MouseMove(object sender, MouseEventArgs e)
-  {
-   if (e.Button == MouseButtons.Left)
-   {
-    this.Left += e.X - lastPoint.X;
-    this.Top += e.Y - lastPoint.Y;
-   }
-  }
+ 
   Point lastPoint;
-  private void Form1_MouseDown(object sender, MouseEventArgs e)
-  {
-   lastPoint = new Point(e.X, e.Y);
 
-  }
 
   private void delBTN_Click(object sender, EventArgs e)
   {
@@ -75,7 +64,7 @@ namespace Clever
   private void button1_MouseDown(object sender, MouseEventArgs e)
   {
 
-  ProcessStartInfo startInfo = new ProcessStartInfo(@"C:\Program Files (x86)\GOM\GOMPlayer\GOM.exe");
+  ProcessStartInfo startInfo = new ProcessStartInfo(@"C:\Program Files\HotVirtualKeyboard\hvk.exe");
 
 
 
@@ -96,5 +85,42 @@ namespace Clever
    SendKeys.Send("^y");
 
   }
- }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_MouseDown(object sender, MouseEventArgs e)
+        {
+
+            lastPoint = new Point(e.X, e.Y);
+
+          
+        }
+
+        private void button4_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                this.Left += e.X - lastPoint.X;
+                this.Top += e.Y - lastPoint.Y;
+            }
+        }
+
+        private void button6_MouseDown(object sender, MouseEventArgs e)
+        {
+            SendKeys.Send("^c");
+        }
+
+        private void button7_MouseDown(object sender, MouseEventArgs e)
+        {
+            SendKeys.Send("^v");
+        }
+
+        private void button5_MouseDown(object sender, MouseEventArgs e)
+        {
+            SendKeys.Send("{ENTER}");
+        }
+    }
 }

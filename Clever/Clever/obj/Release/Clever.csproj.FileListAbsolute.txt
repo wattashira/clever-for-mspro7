@@ -1,0 +1,13 @@
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Release\Clever.exe.config
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Release\Clever.exe
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Release\Clever.pdb
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Release\Clever.Form1.resources
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Release\Clever.Properties.Resources.resources
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Release\Clever.csproj.GenerateResource.cache
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Release\Clever.csproj.CoreCompileInputs.cache
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Release\Clever.exe
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Release\Clever.pdb
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Release\Clever.exe.manifest
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Release\Clever.application
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Release\Clever.exe.manifest
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Release\Clever.application

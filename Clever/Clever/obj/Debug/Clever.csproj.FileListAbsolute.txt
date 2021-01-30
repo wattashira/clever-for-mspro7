@@ -8,3 +8,17 @@ C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.csproj.GenerateResourc
 C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.csproj.CoreCompileInputs.cache
 C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.exe
 C:\Users\BOLT\source\repos\Clever\Clever\obj\Debug\Clever.pdb
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Debug\Clever.exe.config
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Debug\Clever.exe
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Debug\Clever.pdb
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.Form1.resources
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.Properties.Resources.resources
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.csproj.GenerateResource.cache
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.csproj.CoreCompileInputs.cache
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.exe
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.pdb
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Debug\Clever.exe.manifest
+C:\Users\Wattashira\Desktop\Clever\Clever\bin\Debug\Clever.application
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.exe.manifest
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.application
+C:\Users\Wattashira\Desktop\Clever\Clever\obj\Debug\Clever.csprojAssemblyReference.cache
